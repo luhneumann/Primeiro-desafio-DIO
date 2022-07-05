@@ -1,2 +1,3 @@
 # Primeiro-desafio-DIO
-Desafio de projeto bootcamp Santander
+Desafio Git e GitHub do bootcamp Santander
+
